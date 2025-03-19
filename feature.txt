@@ -1,0 +1,1 @@
+I learned how to set up Git, create a basic HTML page, and use GitHub for version control.
